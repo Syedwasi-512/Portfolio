@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Syed Wasi Ul Hassan
+Syed Wasi Ul Hassan
+Full Stack developer
 
 Show Contacts
 
 Email
-richard@example.com
+muqarabsyed67@gmail.com
 
 Phone
-+1 (213) 352-2795
++92 307 9302512
 
 Birthday
-June 23, 1982
+August 1, 2004
 
 Location
-Sacramento, California, USA
+Rawalpindi, Pakistan
 
 # navbar
 
